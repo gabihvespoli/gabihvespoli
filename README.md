@@ -19,7 +19,7 @@
 
 </p>
 
-<h3 align="center">Fullstack developer student from BR</h3>
+<h3 align="center">Full Stack developer student from Brazil</h3>
 <h3 align="center">Bachelor in Graphic Design</h3>
 
 <p align="center">
@@ -31,15 +31,15 @@
 
 - ⏳ I’m currently working on **Meteoro Eletro**
 - 📚 I’m currently learning ... **React.js**
-- 💬 Ask me about anything, I am happy to help :)
+- 💬 Ask me about anything, **I am happy to help** :)
 - 🔍 Employement ... **Open for Full Stack opportunities**
-- ⚡ Fun fact ... **I love watch Series** 🎬 
+- ⚡ Fun fact ... **I love watch series, dogs and trips** 🎬 🐶 🚀
 - 📞 How to reach me **+55 11 96275-7737**
 
 <br/>
 <br/>
 
-**Languages:** 
+<h4>Skills and Tools:</h4> 
 
 <p>
 
@@ -64,15 +64,16 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 </p>
 
-**Tools:** 
+<h4>Desktop Environment:</h4>
 <p align="left">
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
 </p>
 
-
+<p align="center">
 💜 by [Gabi Vespoli](https://github.com/gabihvespoli)
+</p>
