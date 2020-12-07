@@ -74,6 +74,10 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
 </p>
 
+<br/>
+<br/>
+
 <p align="center">
+
 💜 by [Gabi Vespoli](https://github.com/gabihvespoli)
 </p>
