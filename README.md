@@ -19,7 +19,7 @@
 
 </p>
 
-<h3 align="center">Full Stack developer student from Brazil</h3>
+<h3 align="center">Full Stack Developer Student from Brazil</h3>
 <h3 align="center">Bachelor in Graphic Design</h3>
 
 <p align="center">
