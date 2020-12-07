@@ -75,9 +75,9 @@
 </p>
 
 <br/>
-<br/>
 
 <p align="center">
 
 💜 by [Gabi Vespoli](https://github.com/gabihvespoli)
+
 </p>
