@@ -27,7 +27,7 @@
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/gabihvespoli/gabihvespoli.svg" />
 </p>
 
-<img width="50%" align="right" alt="Github Image" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<img width="30%" align="right" alt="Github Image" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 - ⏳ I’m currently working on **Meteoro Eletro**
 - 📚 I’m currently learning ... **React.js**
@@ -44,7 +44,7 @@
 <p>
 
   <a href="https://github.com/gabihvespoli/github-readme-stats">
-    <img width="55%" align="right" alt="Gabihvespoli's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabihvespoli&layout=compact" />
+    <img width="40%" align="right" alt="Gabihvespoli's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabihvespoli&layout=compact" />
   </a>
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
