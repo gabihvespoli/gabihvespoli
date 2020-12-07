@@ -1,14 +1,25 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Gabi Vespoli</h1>
  <p align="center"><br/>
 
-  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gabihvespoli)
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabihvespoli/)
-  [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/gabihvespoli/)
-  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabiat3@gmail.com)
-  [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:gabiat3@hotmail.com)
+  <a href="https://www.linkedin.com/in/gabihvespoli/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
+  </a>
+
+  <a href="https://www.instagram.com/gabihvespoli/">
+    <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="mailto:gabiat3@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white">
+  </a>
+
+  <a href="mailto:gabiat3@hotmail.com">
+    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white">
+  </a>
+
 </p>
 
-<h3 align="center">Fullstack developer student from BR 🇧🇷</h3>
+<h3 align="center">Fullstack developer student from BR</h3>
 <h3 align="center">Bachelor in Graphic Design</h3>
 
 <p align="center">
@@ -28,8 +39,9 @@
 **Languages:** 
 
 <p>
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabihvespoli&layout=compact)](https://github.com/gabihvespoli/github-readme-stats)
-  
+
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
@@ -49,13 +61,12 @@
 
 **Tools:** 
 <p align="left">
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
 </p>
 
 
