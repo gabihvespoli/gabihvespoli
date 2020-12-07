@@ -40,7 +40,9 @@
 
 <p>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabihvespoli&layout=compact)](https://github.com/gabihvespoli/github-readme-stats)
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gabihvespoli&layout=compact">
+    <img width="55%" align="right" alt="Gabihvespoli top langs" src="https://github.com/gabihvespoli/github-readme-stats" />
+  </a>
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
