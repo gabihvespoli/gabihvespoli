@@ -19,7 +19,7 @@
 
 </p>
 
-<h3 align="center">Full Stack developer student from Brazil</h3>
+<h3 align="center">Front end developer from Brazil</h3>
 <h3 align="center">Bachelor in Graphic Design</h3>
 
 <p align="center">
@@ -29,10 +29,9 @@
 
 <img width="30%" align="right" alt="Github Image" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
-- ⏳ I’m currently working on **Meteoro Eletro**
 - 📚 I’m currently learning ... **React.js**
 - 💬 Ask me about anything, **I am happy to help** :)
-- 🔍 Employement ... **Open for Full Stack opportunities**
+- 🔍 Employement ... **Front end Developer at Accenture do Brasil**
 - ⚡ Fun fact ... **I love watch series, dogs and trips** 🎬 🐶 🚀
 - 📞 How to reach me **+55 11 96275-7737**
 
@@ -47,20 +46,20 @@
     <img width="40%" align="right" alt="Gabihvespoli's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabihvespoli&layout=compact" />
   </a>
 
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
   <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 </p>
 
