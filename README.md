@@ -23,15 +23,15 @@
 <h3 align="center">Bachelor in Graphic Design</h3>
 
 <p align="center">
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=gabihvespoli.gabihvespoli" />
+  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=gabihvespoli.gabihvespoli&left_color=grey&right_color=blue" />
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/gabihvespoli/gabihvespoli.svg" />
 </p>
 
 <img width="30%" align="right" alt="Github Image" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
-- 📚 I’m currently learning ... **React.js**
+- 📚 I’m currently working with ... **Angular 2+**
 - 💬 Ask me about anything, **I am happy to help** :)
-- 🔍 Employement ... **Front end Developer at Accenture do Brasil**
+- 🔍 Employement ... **Front-End Developer at Accenture do Brasil**
 - ⚡ Fun fact ... **I love watch series, dogs and trips** 🎬 🐶 🚀
 - 📞 How to reach me **+55 11 96275-7737**
 
