@@ -31,7 +31,7 @@
 
 - 📚 I’m currently working with ... **Angular 2+**
 - 💬 Ask me about anything, **I am happy to help** :)
-- 🔍 Employement ... **Front-End Developer at Accenture do Brasil**
+- 🔍 Employement ... **Front-End Developer at Itaú Unibanco**
 - ⚡ Fun fact ... **I love watch series, dogs and trips** 🎬 🐶 🚀
 - 📞 How to reach me **+55 11 96275-7737**
 
