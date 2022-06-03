@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" heigth="30px">, I'm Gabi Vespoli</h1>
+<h1 align="center">Hi <img width="4%" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Gabi Vespoli</h1>
 <p align="center">
 <br/>
 
