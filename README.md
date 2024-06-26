@@ -33,7 +33,6 @@
 - 💬 Ask me about anything, **I am happy to help** :)
 - 🔍 Employement ... **Front-End Developer at Itaú Unibanco**
 - ⚡ Fun fact ... **I love watch series, dogs and trips** 🎬 🐶 🚀
-- 📞 How to reach me **+55 11 96275-7737**
 
 <br/>
 <br/>
